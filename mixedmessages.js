@@ -27,4 +27,4 @@ const fortuneTeller = () => {
    return wish;
 };
 
-console.log(`Your Today Fortune is : ${fortuneTeller()}`);
+console.log(`Your Today's Fortune is : ${fortuneTeller()}`);
